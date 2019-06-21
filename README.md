@@ -1,6 +1,10 @@
 - # TODO LIST
 
     ### 实现了以下需求 2019-6-21
+    
+    ### 效果图
+    
+    ![result.gif](https://raw.githubusercontent.com/NICE-FUTURE/tw-stage-2-project-1/master/result.gif)
 
     ---
     
