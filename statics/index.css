@@ -30,6 +30,7 @@ th {
 
 table {
     max-width: 100%;
+    text-align: left;
 }
 
 .msg {
@@ -90,4 +91,14 @@ table {
 
 #clear_complete_btn {
     display: none;
+}
+
+#todo_table li {
+    list-style-type: circle;
+}
+
+#done_table li {
+    list-style-type: disc;
+    text-decoration-line: line-through;
+    font-style: italic;
 }
